@@ -1,0 +1,175 @@
+.carousel  img{
+height: 70vh;
+width: 100%;
+}
+.carousel h5{
+    color: blue;
+    font-size: 24px;
+    text-transform:uppercase
+
+}
+.carousel p{
+    background-color: crimson;
+    padding: 10px;
+}
+.border{
+    background: darkred;
+    height:5px!important;
+    width: 40px;
+    margin: 10px 0px;
+}
+
+
+/* marketingsection */
+.marketingsection p.read
+{
+    max-width:50%;
+    text-align:center;
+}
+
+.marketingsection i{
+    width: 100px;
+    height: 100px;
+    color: red;
+    border:2px solid red ;
+    padding:20px;
+    border-radius: 40px;
+    transition:o.2s linear;
+    font-size:32px;
+}
+.marketingsection i:hover{
+    border-radius: 50px;
+}
+.exellencesection img{
+    box-shadow: 20px 20px aqua;
+}
+.memberSection{
+  padding: 100px;  
+  background-color: red;
+  color: white;}
+  .memberSection{
+   font-size:60px ;
+   text-align:center;
+  }
+
+  }
+.marketingSection .border{
+    width: 50px;
+    height: 7px;
+    color:white;
+    margin: 10px 2px;
+    background-color: white;
+    
+    
+
+}
+.memberSection P{
+    font-weight: 600;
+    font-size: 24px;
+    text-align: center;
+}
+.ourExcellence span{
+    color: red;
+    text-decoration: underline;
+    text-transform;
+    font-weight: 400;
+}
+.ourExcellence img{
+    box-shadow: -10px -10px red;
+    opacity: .7;
+
+}
+.ourExcellence img:hover{
+    transform: scale(1.5);
+    transition: 0.7s linear;
+
+
+
+
+    
+    border-radius:50%;
+}
+.newssection h2 span{
+color: red!important;
+
+}
+.newssection img:hover{
+    opacity:0.5;
+    cursor:pointer;
+    transform: scale(1.1);
+    transition: .5s linear;
+}
+.newssection .card{
+    transition:5s  linear;
+}
+.newssection .card:hover{
+box-shadow:0 0 10px 0px red;
+cursor:s-resize;
+transition : .7s linear;
+margin-bottom: 10px;
+}
+
+.newssection img{
+    height: 200px;
+}
+.newssection .card p{
+text-align: right!important;
+font-size: 14px;
+
+}
+.newssection.row{
+    max-width: 90%!important;
+}
+footer{
+    color: white;}
+footer h5{
+        text-transform:uppercase;
+        font-weight:800;
+    }
+    footer p span{
+        font-weight: 300;
+        color: red;
+    }
+footer ul.social li{
+    display: inline-block!important;
+    margin-right: 50px;
+    font-size: 28px;
+    border: 1px solid red;
+    height: 50px;
+    width: 50px;
+    border-radius: 40%;
+    text-align: center;
+}
+footer ul li a i{
+    border: nonef;
+    position:relative;
+    margin:10px 10px;  
+}
+.facebook{
+    color: #3b5998;
+}
+.twitter{
+    color:#38a1f3 ;
+}
+.youtube{
+    color: red;
+}
+.instagram{
+    color: #e1306c;
+}
+footer ul li:hover{
+    border-radius: 50%;
+    margin-right: 10px;
+}
+footer ul.quick-links li {
+list-style-type: none;
+color: red;
+text-decoration: none;
+}
+footer p.contact i{
+    border: none;
+}
+
+
+
+
