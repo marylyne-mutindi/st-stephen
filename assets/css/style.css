@@ -169,7 +169,12 @@ text-decoration: none;
 footer p.contact i{
     border: none;
 }
-
-
+.bannersection{
+    background-image: url(../images/10.jpg);
+    color: white;
+}
+.accomplishment img{
+    box-shadow: 10px 10px red;
+}
 
 
